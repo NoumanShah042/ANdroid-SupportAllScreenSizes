@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=5lSQcJjZPFs
+
+
+
+using qualifiers:
+
+sw720 :  create file for all that have smaller screen widht of atleast 720dp   ( for  scresn size >= 720dp )
